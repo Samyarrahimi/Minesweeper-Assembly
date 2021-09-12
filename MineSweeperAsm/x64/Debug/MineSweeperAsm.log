@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  MineSweeperAsm.cpp
+MineSweeperAsm.obj : error LNK2019: unresolved external symbol putBomb referenced in function main
+E:\Admin\Documents\VisualStudioprojects\MineSweeperAsm\x64\Debug\MineSweeperAsm.exe : fatal error LNK1120: 1 unresolved externals
